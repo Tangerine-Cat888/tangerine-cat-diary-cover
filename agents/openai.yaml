@@ -1,0 +1,4 @@
+interface:
+  display_name: "日记封面"
+  short_description: "根据指定日记建议书名，寻找来源可核实的艺术配图并制作封面对比"
+  default_prompt: "请用 $tangerine-cat-diary-cover 为我指定的日记建议标题和艺术配图，先给对比预览，不修改日记本。"
